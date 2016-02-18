@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>BackBone.qml</file>
+        <file>Backgrounder.qml</file>
+        <file>VideoLooper.qml</file>
+        <file>ldr.mng</file>
+        <file>Ld.mng</file>
+    </qresource>
+</RCC>
